@@ -17,6 +17,20 @@ It classifies reviews as **Positive** or **Negative** using machine learning mod
 
 ---
 
+## 🌐 Live Demo
+
+You can access the deployed project here:
+
+🔗 [Click here to view the web app](https://movie-sentiment-analysis-ti91.onrender.com)
+
+---
+
+## 📌 How to Use
+- Enter a movie review in the text box  
+- Click on **Predict Sentiment**  
+- The app will display whether the review is **Positive** or **Negative**
+
+
 ## ⚙️ Steps Involved
 - Data preprocessing  
 - Text cleaning  
