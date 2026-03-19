@@ -39,3 +39,13 @@ Logistic Regression gives the best performance among all models.
 git clone https://github.com/shindevaish/Movie-Sentiment-Analysis-.git
 cd movie-sentiment-analysis
 ```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Streamlit app
+```bash
+streamlit run app.py
+```
